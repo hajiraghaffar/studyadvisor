@@ -3,8 +3,8 @@
 centralized admission platform for universities
 
 <div align="center">
+<img src="assets/logo.png" alt="StudyAdvisor Logo" width="250" height="auto" />
 
-studyadvisor.com.pk\public\assets\logo.png
 
 **A Centralized University Admission Platform for Pakistan**
 
