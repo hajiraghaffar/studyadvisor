@@ -3,7 +3,7 @@
 centralized admission platform for universities
 
 <div align="center">
-https://github.com/hajiraghaffar/studyadvisor/blob/master/assets/logo.png?raw=true
+https://raw.githubusercontent.com/hajiraghaffar/studyadvisor/master/assets/logo.png
 
 **A Centralized University Admission Platform for Pakistan**
 
