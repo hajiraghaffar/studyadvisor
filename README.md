@@ -4,7 +4,7 @@ centralized admission platform for universities
 
 <div align="center">
 
-![StudyAdvisor Banner](https://via.placeholder.com/1200x400/1E3A8F/FFFFFF?text=StudyAdvisor+Pakistan+-+University+Admission+Platform)
+![StudyAdvisor Banner]E:\websites\studyadvisor.com.pk\public\assets\logo.png
 
 **A Centralized University Admission Platform for Pakistan**
 
